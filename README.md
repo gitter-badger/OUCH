@@ -1,4 +1,6 @@
 # OUCH
+
+[![Join the chat at https://gitter.im/Poordeveloper/OUCH](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Poordeveloper/OUCH?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 SDK for nasdaq OUCH 4.2, which works in a manner similar to QuickFIX for your easy integration.
 
 ## Dependency
